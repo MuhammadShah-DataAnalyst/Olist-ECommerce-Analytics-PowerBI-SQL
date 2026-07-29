@@ -30,6 +30,12 @@ This project delivers a 3-page interactive Power BI dashboard designed to analyz
 - **Geographic Concentration:** Top 10 cities by customer volume.
 - **State Spending Summary:** Detailed breakdown of state-level metrics (Customers, Revenue, AOV, Avg Installments).
 
+- ## 📥 Interactive Power BI File (.pbix)
+Because the native Power BI file exceeds GitHub's file size limits, you can download the full `.pbix` file directly:
+👉 [**Download Power BI Dashboard (.pbix)**](https://drive.google.com/file/d/1OdiuOEd97G7i3j0p3vDltYl-cK9Gr6eE/view?usp=sharing))
+
+*(You can also view the static 3-page export inside the `docs/` folder).*
+
 ---
 
 ##  Key Business Insights
